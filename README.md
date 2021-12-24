@@ -9,9 +9,11 @@ It's Me 🐝
 
 안녕하세요. 저는 Cloud Soultion Archeture 입니다.
 
-저는 다양한 클라우드를 지원을 하고있으며, 시스템 이관, 신규 구축 및 프로젝트 등 다양한 경험이 있습니다.
+현재는 China SA로서 Alibaba Cloud 클라우드를 지원을 하고있으며, 신규 구축, 시스템 이관 및 다양한 환경의 프로젝트를 진행하고 있습니다.
+  
+China Cloud 이외에도 Azure, AWS에도 많은 관심이 있어서 학습을 하고 있습니다.
 
-Terraform을 이용한 배포 및 Gitlab을 이용한 CI/CD 파이프라인 그리고 최근에는 K8S를 학습을 하고 있습니다.
+이외에도 Terraform을 이용한 배포 및 Gitlab을 이용한 CI/CD로 K8S 배포등 다양한 내부 프로젝트를 진행하고 있습니다.
 
   
 ----
