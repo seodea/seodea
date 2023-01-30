@@ -26,6 +26,7 @@ AWS 이외에도 Azure, China에도 많은 관심이 있어서 학습을 하고 
   ![Gitlab](https://img.shields.io/badge/-gitlab-FCA121?style=flat&logo=Gitlab)
   ![Docker](https://img.shields.io/badge/-docker-2456ED?style=flat&logo=docker)
   ![K8S](https://img.shields.io/badge/-Kubernetes-F0FFFF?style=flat&logo=Kubernetes)
+  ![K8S](https://img.shields.io/badge/-ArgoCD-FFCA28?style=flat&logo=argo)
   
   ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft%20azure)
   ![AWS](https://img.shields.io/badge/-Amazon%20AWS-FBB71B?style=flat&logo=Amazon%20AWS)
